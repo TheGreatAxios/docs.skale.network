@@ -1,0 +1,3 @@
+[submodule "doc-ui"]
+	path = doc-ui
+	url = git@github.com:TheGreatAxios/doc-ui.git
